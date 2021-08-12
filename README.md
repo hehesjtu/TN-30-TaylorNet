@@ -1,1 +1,2 @@
-# TaylorNet
+This is the sourse code of the paper "TaylorNet: Single Image Detail Enhancement Based on Analysis of Taylor Seriers".
+TaylorNet is a single image detail enhancement framework based on statistical learning. The algorithm is designed by analyzing Taylor series, including the generating ways of the weighted coefficients of each layer and the fusion mode of each layer.  For any questions, contact the author He Jiang. jiangherenren@163.com
